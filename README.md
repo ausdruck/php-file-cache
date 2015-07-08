@@ -1,7 +1,7 @@
 # PHP File Cache #
 PHP File Cache, Used to instead of memcache in Host which can not install memcache.
 
-- one cache, one file, reduce calculate of key and value, to gain hign performaance.
+- one cache, one file, reduce calculate of key and value, to gain hign performance.
 - simple api to use. similar with memcache.  
 
 ## Info ##
